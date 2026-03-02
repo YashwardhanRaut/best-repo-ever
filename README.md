@@ -1,3 +1,3 @@
 # best-repo-ever
 Some changes
-Changes made in Branch 1
+Changes made from branch 2
